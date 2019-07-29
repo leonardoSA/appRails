@@ -11,7 +11,7 @@ gem 'rails', '~> 5.0.7', '>= 5.0.7.2'
 # Use sqlite3 as the database for Active Record
 
 #gem 'sqlite3', '~> 1.3.13'
-
+#banco de dados
 group :development do
   gem 'sqlite3', '~> 1.3.13'
 end
@@ -19,13 +19,22 @@ group :production do
   gem 'pg'
 end
 
+# inteface admin
+#gem 'activeadmin', github: 'activeadmin'
+gem 'activeadmin', '~> 1.0.0.pre4'
+gem 'inherited_resources'  # github: 'activeadmin/inherited_resources'
+#gem 'inherited_resources', git: 'http://github.com/activeadmin/inherited_resources'
+#gem 'activeadmin'
+
+
 #Use Carrieware
+
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
 gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
-# Use SCSS for stylesheets
+# Use SCSS for stylesheetsf
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
