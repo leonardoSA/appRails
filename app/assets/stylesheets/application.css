@@ -21,7 +21,8 @@ th { border-bottom: 1px solid #DDD; }
 
 .navbar {
       min-height: 38px;
-      background: #f55e55 ;
+      /* background: #f55e55 ; */
+      background: #1cf0c6;
   }  
 
  .navbar a.brand { font-size: 18px; }
@@ -37,8 +38,34 @@ footer {
   padding: 30px 0;
 }
   
-  
-  
+.info{
+  background-color: #474e5d;
+  text-align: center;
+  height: 40%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #1cf0c6;
+}
+
+.full-width-bar {
+  margin: 0 -9999rem;
+  /* add back negative margin value */
+  padding: 0.25rem 9999rem;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}  
+
+.full-width {
+  position: relative; /* child absolute */
+  margin: 0 -9999rem;
+  /* add back section padding value */
+  padding: .25rem 9999rem;
+  background: #666;
+  /* background: rgba(0, 0, 0,.5); */
+  color: white;
+  font-size: 1.125rem;
+}
+
 /*
 
 .navbar-default, .navbar-brand, .navbar-nav > li > a{
