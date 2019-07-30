@@ -1,29 +1,17 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App criando baseado no tutorial Rails girls para aprendizado de RoR.
+O app possui as seguintes funcionalidades:
+* Criação de uma nova ideia em texto.
+* Inserção de uma imagem
+* Comentar ideia cadastrada
+* Criação e Login de usuários
+* Painel administrativo
 
-Things you may want to cover:
+O app está disponível em: https://tecno-info.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 =======
 # appRails
-app criando baseado no tutorial Rails girls para aprendizado de RoR
->>>>>>> 0e8947060ec8eed11d0a31f428596222329804fa
+
+
