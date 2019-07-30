@@ -30,7 +30,9 @@ gem 'inherited_resources'  # github: 'activeadmin/inherited_resources'
 #Use Carrieware
 
 gem 'carrierwave'
-gem 'mini_magick', '3.8.0'
+#gem 'mini_magick', '3.8.0'
+gem 'mini_magick', '4.9.4'
+
 gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
