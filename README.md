@@ -1,6 +1,7 @@
 # README
 
-App criando baseado no tutorial Rails girls para aprendizado de RoR.
+Este App foi criando baseado no tutorial do Rails girls para aprendizado de Ruby on Rails.
+
 O app possui as seguintes funcionalidades:
 * Criação de uma nova ideia em texto.
 * Inserção de uma imagem
