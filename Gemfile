@@ -35,7 +35,7 @@ gem 'mini_magick', '4.9.4'
 
 gem 'devise'
 # Use Puma as the app server
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 5.6'
 # Use SCSS for stylesheetsf
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
